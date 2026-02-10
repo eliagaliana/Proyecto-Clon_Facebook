@@ -51,4 +51,5 @@ Si quieres discutir sobre cómo implementé el Grid o la lógica de los posts, c
 
 - **Autor:** Elia Galiana
 - **Portfolio web:** https://eliagaliana.github.io/elia-galiana.github.io/)
-- **LinkedIn:** www.linkedin.com/in/elia-galiana-sanabria-74992431a
+- **LinkedIn:** www.linkedin.com/in/elia-galiana-sanabria
+
